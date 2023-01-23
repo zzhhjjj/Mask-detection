@@ -7,9 +7,10 @@ https://www.kaggle.com/haojunz/face-mask-detection?scriptVersionId=82370703
 Faster RCNN didn't worked well, but I still put the link here.
 
 
-
 The second part is run on jupyter notebook. It takes an video and output the annotated video. 
 In order to do so, we need the model trained on the first part. The parameters that need to 
 be adjusted are putted at the beginning. For a video of 3 seconds, it could take one minute to run.
-And the last part of this jupyter notebook is independent from the previous, 
+I have putted a demo to demonstrate our work.
+
+And the last part of this jupyter notebook is independent from the previous codes, it implement an adhoc mask detection run on PC. 
  
