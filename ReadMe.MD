@@ -1,5 +1,4 @@
 # Mask detection and distance estimation project
-___
 ## Our project has three parts.
 ### First part
 The first part is to fine tune DenseNet 201 model on the dataset in order to distinguish between photos with masks and photos without masks. So it's run on Kaggle. 
